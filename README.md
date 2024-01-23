@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/bgrhnzcn" target="_blank">
+  <a href="www.linkedin.com/bgrhnzcn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/20994367/bu%c4%9frahan-%c3%96zcan" target="_blank">
