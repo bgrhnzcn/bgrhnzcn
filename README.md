@@ -7,7 +7,7 @@ I'm a passionate software developer with a strong interest in graphics programmi
 A simple Unix shell implementation written in C, replicating core shell functionalities.
 
 ### [FDF](https://github.com/bgrhnzcn/fdf)
-A wireframe model visualizer that creates 3D projections from 2D data points, leveraging OpenGL (GL42) for rendering.
+A wireframe model visualizer that creates 3D projections from 2D data points.
 
 ### [Cub3D](https://github.com/bgrhnzcn/cub3d)
 A 3D game engine based on raycasting, inspired by Wolfenstein 3D, implemented in C.
