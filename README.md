@@ -12,6 +12,9 @@ A wireframe model visualizer that creates 3D projections from 2D data points.
 ### [Cub3D](https://github.com/bgrhnzcn/cub3d)
 A 3D game engine based on raycasting, inspired by Wolfenstein 3D, implemented in C.
 
+### [miniRT](https://github.com/bgrhnzcn/miniRT)
+Very basic, CPU-based ray-trace engine, implemented in C.
+
 ## Work in Progress
 - **GL42 Project:** Currently exploring OpenGL 4.2 to build advanced 3D rendering pipelines and enhance real-time graphics capabilities.
 
